@@ -1,0 +1,17 @@
+{
+  "name": "lab_0104",
+  "version": "1.0.0",
+  "description": "The basic work with SASS & GULP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello GULP\""
+  },
+  "author": "Levchuk Artur",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.9",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.51.0"
+  }
+}
